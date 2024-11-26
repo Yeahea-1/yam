@@ -23,12 +23,12 @@ a:link {
   
   /* visited link */
   a:visited {
-    color: rgb(50, 224, 255);
+    color: rgb(50, 139, 255);
   }
   
   /* mouse over link */
   a:hover {
-    color: rgb(60, 236, 228);
+    color: rgb(60, 101, 236);
   }
   
   /* selected link */
